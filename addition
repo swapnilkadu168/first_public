@@ -1,0 +1,3 @@
+def addition(x,y):
+  return x+y
+print("Addion is :[%s]",addition(10,20))
